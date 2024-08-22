@@ -1,0 +1,36 @@
+/* HEADERS */
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+h4{
+    font-size: 1.5rem;
+}
+
+/* section Chocolate Chip Cookies */
+
+#img-image-chocolatechipcookies{
+    width: 50%;
+    height: 50%;
+}
+
+#p-description-chocolatechipcookies{
+    font-size: 2rem;
+}
+
+#ul-ingredients-chocolatechipcookies{
+    font-size: 1.7rem;
+}
+
+#ul-steps-chocolatechipcookies{
+    font-size: 1.7rem;
+}

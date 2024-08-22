@@ -1,0 +1,36 @@
+/* HEADERS */
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+h4{
+    font-size: 1.5rem;
+}
+
+/* section Quinoa Salad */
+
+#img-image-quinoasalad{
+    width: 50%;
+    height: 50%;
+}
+
+#p-description-quinoasalad{
+    font-size: 2rem;
+}
+
+#ul-ingredients-quinoasalad{
+    font-size: 1.7rem;
+}
+
+#ul-steps-quinoasalad{
+    font-size: 1.7rem;
+}
